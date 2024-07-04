@@ -1,0 +1,11 @@
+Buat simulasi dunia fisik dengan game engine love 2D yang di dalamnya terdapat 2 kotak yang jatuh dari atas ke bawah
+
+Modifikasi kode program lua sebelumnya agar dibuat papan jungkit-jungkit di tengah layar dan papan tersebut akan berotasi di titik tengah, layaknya papan jungkat-jungkit di dunia fisik. Gerakan papan tergantung dari letak jatuhnya 2 kotak.
+
+Modifikasi kode program lua sebelumnya sehingga papan jungkit-jungkit akan memiliki skin yang diambil dari file gambar dan di dalam file gambar tersebut ada garis-garis yang menandai jarak di dalam papan jika dihitung dari titik tengah.
+
+Buat kode lua agar lokasi dari kotak yang pertama dihasilkan secara acak, dengan syarat bahwa lokasi tersebut harus kelipatan 1 meter (60 pixel) dan harus berada di atas papan.
+
+Bagaimana menghasilkan angka random dengan seed yang berbeda pada bahasa lua
+
+bagaimana agar objek kotak bisa di hentikan (tidak terkena efek gravitasi) dalam love2d, untuk kemudia dihidupkan lagi efek gravitasinya.
